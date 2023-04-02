@@ -37,7 +37,7 @@ jobs:
           
           github-token: ${{ secrets.GITHUB_TOKEN }}
           
-          files-primary: Wynncraft Pack-*.mrpack\
+          files-primary: Wynncraft Pack-*.mrpack
           loaders: |
             fabric
           
