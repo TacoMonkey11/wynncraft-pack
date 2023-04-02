@@ -21,6 +21,15 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       
+      - name: Setup Go environment
+        uses: actions/setup-go@v4.0.0
+        
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      
+      - name: Export modpack
+        run: packwiz mr export
+      
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: yZS0449h
