@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-2.11.11-mc-1.19.3-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/IKdBnX5P/physics-mod-2.11.11-mc-1.19.3-fabric.jar"
+hash-format = "sha1"
+hash = "6bd9b34ed8f1942bcbcd73e264428d59ae926811"
+
+[update]
+[update.modrinth]
+mod-id = "Xy8aRQKS"
+version = "IKdBnX5P"
