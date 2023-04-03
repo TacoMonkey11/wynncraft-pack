@@ -35,7 +35,7 @@ jobs:
           modrinth-id: yZS0449h
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
           
           files-primary: Wynncraft Pack-*.mrpack
           loaders: |
