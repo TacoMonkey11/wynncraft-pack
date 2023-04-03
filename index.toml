@@ -100,11 +100,6 @@ hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "a9446c4a0ddeb25dd57bf0054d66b40e310acfbd7d21aef706c20ca692ea1f5d"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
 metafile = true
