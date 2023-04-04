@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "10cd218eef87974f1ba0299900fcfefa98125fd73be3c921eaf8c2379afe739e"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "ffd5e40c0cac6a8f18e8c8c5212f81683f769ff755d4678ae7de77db6c5117e1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c61f1e575d6acf7ef4233f15100db8e870b3c5d2898c910bcf4a10d0dc5534a9"
 metafile = true
@@ -177,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
 metafile = true
 
 [[files]]
