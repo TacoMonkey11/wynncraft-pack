@@ -40,4 +40,6 @@ jobs:
           files-primary: Wynncraft Pack-*.mrpack
           loaders: |
             fabric
+          game-versions: |
+            1.19.3
           
