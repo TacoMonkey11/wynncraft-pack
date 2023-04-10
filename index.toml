@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+hash = "cb42423fc581c24ed56adaee739fc5e4b86f76d2bc3c9fc79ca812ee87e65cbd"
 metafile = true
 
 [[files]]
@@ -156,6 +156,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "bf4bc45cf15ca007c159e1a963e5924e3663eb986ebabe2d79df2a7894f665de"
+metafile = true
+
+[[files]]
+file = "mods/ok-boomer.pw.toml"
+hash = "9c7a443b6449c0893fd4468ae550bb894ee4ab36c620d430d230619b83b3036b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "cef6965aa001e227fce4719f6f723ed8af9a020d82195a56d06fa58a342fb73b"
 metafile = true
 
 [[files]]
@@ -215,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "4f94a629c59a96fae30ee8a0d98e68d0803f4c83b3282e65fc5cb53b5b9f9bcb"
+hash = "e46f0685a7bf094b4175bd85606d9c5bc14983d77691cfbf06d55222d232a6c0"
 metafile = true
 
 [[files]]
