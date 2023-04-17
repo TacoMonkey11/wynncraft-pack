@@ -84,11 +84,6 @@ hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml"
-hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
-metafile = true
-
-[[files]]
 file = "mods/fastload.pw.toml"
 hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
 metafile = true
