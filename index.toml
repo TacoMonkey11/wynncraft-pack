@@ -14,32 +14,32 @@ hash = "ffd5e40c0cac6a8f18e8c8c5212f81683f769ff755d4678ae7de77db6c5117e1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
+hash = "8732fa125b852e894518c7860bdb9b44f15ea828aff65d85495cf517fd5b32e6"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "e6cd2d111beae6934394fbc7ae3c99dfefbad8e4a263c975690e278df8e808a5"
+hash = "5c8d2c996c01f9269fb1b57551e70ccf323ac6c58200ece34d4cbca227eb858c"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "55a055c23abf57b1187cbe32e7be37a56f6bff68d513cf73a5cb5a3d1d52341b"
+hash = "4175863337e0d0d42b0e792cc05cce9cf2aba38ea802884b67c15f71762feee1"
 metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
+hash = "af4801c7c7d61382c323ea13a968c466f933ffc3141e950079ff2cafdc1b9ec4"
 metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+hash = "8b9442419af3e5549d0bdacb8bd362125e7a48943af45d294fee42436a096c4b"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+hash = "7c88d15f106f88e0600281fb132d6a3016b370f52d23532250171fb163476444"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
@@ -216,10 +216,6 @@ metafile = true
 file = "mods/wynntils.pw.toml"
 hash = "3d86453d38a77556010ea759767adf9925a9eacf9921849bfe9b8e7026ef6514"
 metafile = true
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.8.1.zip"
-hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
