@@ -4,8 +4,9 @@ name: Publish to Modrinth
 
 # Controls when the workflow will run
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+    - master
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -43,7 +44,7 @@ jobs:
           files-primary: Wynncraft Pack-*.mrpack
 
           changelog-file: latest-changelog.md
-          
+
           loaders: |
             fabric
           game-versions: |
