@@ -1,3 +1,9 @@
+# Release 2.0.0 (2023-05-08)
+.
+## Changed
+
+* Replaced sodium extra with older, compatible version
+
 # Release 1.2.0 (2023-05-08)
 
 ## Updated
