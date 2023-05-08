@@ -1,5 +1,11 @@
-# Release 2.0.0 (2023-05-08)
-.
+# Release 1.2.2 (2023-05-08)
+
+## Added
+
+* Fresh Animations Resource Pack - Adds new animations for mobs - I forgot to remove the gitignore entry for this, so it wasn't included in the last release
+
+# Release 1.2.1 (2023-05-08)
+
 ## Changed
 
 * Replaced sodium extra with older, compatible version
