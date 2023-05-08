@@ -29,6 +29,9 @@ jobs:
       
       - name: Export modpack
         run: packwiz mr export
+
+      - name: Make changelog file
+        run: sed -n '/^# Release /{x;:a;n;/^# Release /!{H;ba};x;p;q}' CHANGELOG.md >> latest-changelog.md
       
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
@@ -38,6 +41,9 @@ jobs:
           github-token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
           
           files-primary: Wynncraft Pack-*.mrpack
+
+          changelog-file: latest-changelog.md
+          
           loaders: |
             fabric
           game-versions: |

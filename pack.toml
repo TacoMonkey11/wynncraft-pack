@@ -1,12 +1,12 @@
 name = "Wynncraft Pack"
 author = "TacoMonkey"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6977ca41e2ff67e8537417a91d36729141a4ff73d9f3854b66ba44f752b13a25"
+hash = "c10673fb4bddab1166a28f4ecd47d6d47982efa7211533e4d3942f876026c431"
 
 [versions]
 fabric = "0.14.19"

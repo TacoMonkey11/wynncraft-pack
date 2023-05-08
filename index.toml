@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "b034e84b3d3cba873cc8a9446f5e77f6a3d557ee6043a55ce5b6ddcef92c3b68"
+
+[[files]]
 file = "LICENSE"
 hash = "10cd218eef87974f1ba0299900fcfefa98125fd73be3c921eaf8c2379afe739e"
 
@@ -15,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "76f2681c9b261e72a357bc0a0eecc7e8ba8794b4d4437ca29ea113dad1c62a2b"
+hash = "e6cd2d111beae6934394fbc7ae3c99dfefbad8e4a263c975690e278df8e808a5"
 metafile = true
 
 [[files]]
@@ -55,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "72873c61a1d442362ef1c7ccdccbdde6f01587484fafeabe9e8b6c84dad81c26"
+hash = "b2a889278c3b05c9c9d4b8d38f63e1fca1420309b216b574cd9f5d91226fe302"
 metafile = true
 
 [[files]]
@@ -64,18 +68,23 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "26834b11c830470d89632e3a8d1c0aea786aa4f1e03aabf99cfb4161f3c097bb"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -85,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -115,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ac519bc5639f80a7a150e1748638bdd283374f97f876cfd380bd3dd7cd9019c7"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
@@ -150,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "91693a0e7c75f65a9288888f1079e89b53cdc31a81b73738f747769165e58692"
+hash = "372ebe3085fa710ac0c2789fe7d258da476e3668ba487117471ac16e7a9bb28b"
 metafile = true
 
 [[files]]
@@ -165,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "0e295f7de9222876b95c74b468ee942cf4ac58ed1d672095d234e13214d07e58"
+hash = "88cf3f040bae7f7cf9e87ffdfede2ac89f6b6b982514c9f690a621a3e58c93fa"
 metafile = true
 
 [[files]]
@@ -175,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
@@ -205,10 +214,14 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "39b323d101b44c7f9299805b3a33a0340eee10195a6d734fb73e46e64e346918"
+hash = "3d86453d38a77556010ea759767adf9925a9eacf9921849bfe9b8e7026ef6514"
 metafile = true
 
 [[files]]
+file = "resourcepacks/FreshAnimations_v1.8.1.zip"
+hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e7bd470918b908960a77db10cb7918c67e6c90ac5d97218d2f875dd6e4e3dda8"
+hash = "8456c3ee8501fbaec3fee6c43e5a7d7aa9a66e9f666aff21058800bc2f17ecfc"
 metafile = true
