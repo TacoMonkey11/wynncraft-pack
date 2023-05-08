@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b034e84b3d3cba873cc8a9446f5e77f6a3d557ee6043a55ce5b6ddcef92c3b68"
+hash = "d53895adba51bfd5abd311b0f8fc230f2024db9daaf5734b19ce7eb488c0e0b5"
 
 [[files]]
 file = "LICENSE"
@@ -216,6 +216,10 @@ metafile = true
 file = "mods/wynntils.pw.toml"
 hash = "3d86453d38a77556010ea759767adf9925a9eacf9921849bfe9b8e7026ef6514"
 metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.8.1.zip"
+hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
