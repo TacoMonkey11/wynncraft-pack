@@ -34,7 +34,7 @@ jobs:
       - name: Make changelog file
         run: sed -n "/^# Release $(grep -m1 -oP '(?<=^# Release )[^\s]+' CHANGELOG.md)/,/^# Release/{/^# Release/d; p}" CHANGELOG.md >> latest-changelog.md
       
-      - uses: Kir-Antipov/mc-publish@v3.2
+      - uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: yZS0449h
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
