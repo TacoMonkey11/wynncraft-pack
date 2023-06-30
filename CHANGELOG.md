@@ -1,3 +1,15 @@
+# Release 1.2.4 (2023-06-23)
+
+## Updated
+
+* Wynntils v0.0.3-alpha.102 -> v0.0.3-alpha.103
+* Fabric Language Kotlin: v1.9.5 -> v1.9.6
+* Fabric Loader: v0.14.19 -> v0.14.21
+
+## Downgraded
+
+* Sodium Extra: v0.4.19 -> v0.4.18
+
 # Release 1.2.3 (2023-06-23)
 
 ## Updated

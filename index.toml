@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d53895adba51bfd5abd311b0f8fc230f2024db9daaf5734b19ce7eb488c0e0b5"
+hash = "a1e3be31400f7c083262601cb6c66d35da55fa3cd4cf52cbb509289ffe211975"
 
 [[files]]
 file = "LICENSE"
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "33c83095c250e7c7ac75b95df4d31dddea5ecf927cdf2b437142fa2c55377792"
+hash = "e46553b7b6961e70d881f0827b51ab1f660156edf9e2880062b12171fd957856"
 metafile = true
 
 [[files]]
